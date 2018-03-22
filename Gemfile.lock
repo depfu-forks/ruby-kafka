@@ -31,7 +31,7 @@ GEM
       coderay (~> 1.0)
       method_source (~> 0.8)
       slop (~> 3.4)
-    rake (10.5.0)
+    rake (12.3.1)
     rspec (3.4.0)
       rspec-core (~> 3.4.0)
       rspec-expectations (~> 3.4.0)
@@ -70,7 +70,7 @@ DEPENDENCIES
   dogstatsd-ruby (>= 2.0.0)
   dotenv
   pry
-  rake (~> 10.0)
+  rake (~> 12.3)
   rspec
   rspec-benchmark
   rspec_junit_formatter (= 0.2.2)
